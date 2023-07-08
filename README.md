@@ -1,6 +1,6 @@
 Hi 👋, I’m Joanna.
-As a beginner tester focused on development, I would like to use my predispositions for teamwork to provide high-quality software. 
-[More about me]
+A beginner tester focused on development.
+[More about me](https://github.com/KozarJoanna/Portfolio)
 
 ### 🛠 &nbsp; Testing tools that I use:
 
